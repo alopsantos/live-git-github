@@ -1,1 +1,0 @@
-console.logo("courses.js");
